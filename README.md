@@ -38,7 +38,8 @@ This is a FastAPI application that interacts with the clipboard, processes the c
 
 1. **Run the application**:
     ```sh
-    uvicorn main:app --reload
+    python3 main.py //IN LINUX
+    python main.py //IN Windows
     ```
 
 2. **Access the application**:

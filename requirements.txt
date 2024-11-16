@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pyperclip
+python-dotenv
+pydantic
+jinja2
+starlette
+groq
+instructor
